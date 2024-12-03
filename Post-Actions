@@ -1,3 +1,4 @@
+//Order of the execution is Always->Changed->Success->unstable->Failure
 pipeline {
     agent any
     stages {
